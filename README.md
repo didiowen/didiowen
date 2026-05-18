@@ -2,8 +2,7 @@
 
 **Physician** | Infectious Disease & Hematology | Taiwan
 
-I build small, opinionated tools that automate the boring parts of clinical
-reading and reference management — so the interesting parts get more attention.
+I build small, opinionated tools that automate the boring parts of clinical reading and reference management — so the interesting parts get more attention.
 
 [![Email](https://img.shields.io/badge/Email-didiowen%40gmail.com-1c1917?style=flat-square&logo=gmail&logoColor=white)](mailto:didiowen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ying--Wen%20Chen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/ying-wen-chen-ba413a20a)
