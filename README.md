@@ -12,10 +12,9 @@ I build small, opinionated tools that automate the boring parts of clinical read
 | Project | Description |
 |---------|-------------|
 | [notes-not-scandal](https://github.com/didiowen/notes-not-scandal)       | My infectious diseases personal & notes, teaching slides, and journal digest publishing site |
+| [nihongo](https://github.com/didiowen/nihongo)                           | My journey learning Japanese from scratch |
 | [pubmed-daily-digest](https://github.com/didiowen/pubmed-daily-digest)   | Claude Code skill — daily PubMed digest across thematic queries with TL;DR + Hot Take |
 | [pubmed-weekly-digest](https://github.com/didiowen/pubmed-weekly-digest) | Claude Code skill — weekly medical-literature digest from a fixed journal list |
-| [society-calendar](https://github.com/didiowen/society-calendar)         | AI-driven scraping of Taiwanese medical society events → Google Calendar |
-| [nihongo](https://github.com/didiowen/nihongo)                           | My journey learning Japanese from scratch |
 
 ## Tech Stack
 
