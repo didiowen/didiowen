@@ -1,11 +1,8 @@
 # Hey, I'm Ines Tan 👋
 
-**Physician** | Infectious Disease & Hematology | Taiwan
-
 I build small, opinionated tools that automate the boring parts of clinical reading and reference management — so the interesting parts get more attention.
 
-## Tech Stack
-
+[![Made in Taiwan](https://img.shields.io/badge/Made%20in-Taiwan%20%F0%9F%87%B9%F0%9F%87%BC-red)](https://github.com/htlin222/society-calendar)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
