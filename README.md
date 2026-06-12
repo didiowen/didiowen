@@ -1,6 +1,6 @@
 # Hey, I'm Ines Tan 👋
 
-I build small, opinionated tools that automate the boring parts of clinical reading and reference management — so the interesting parts get more attention.
+Clinician and builder. I make small CLI/skill tools that absorb the tedium of clinical reading — literature digests, citation hygiene, food logs — so the brainspace goes where it should.
 
 [![Made in Taiwan](https://img.shields.io/badge/Made%20in-Taiwan%20%F0%9F%87%B9%F0%9F%87%BC-red)](https://github.com/htlin222/society-calendar)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
